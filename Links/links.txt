@@ -1,3 +1,7 @@
 This link for train the model on custom dataset
 
 https://www.kaggle.com/code/maxkav/yolov5-tutorial-train-with-custom-data#About
+
+#Explanation of the FasterSeg paper
+
+https://papertalk.org/papertalks/3760#similar_papers
