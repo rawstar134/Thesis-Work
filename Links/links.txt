@@ -9,3 +9,11 @@ https://papertalk.org/papertalks/3760#similar_papers
 Segmentation Model 
 https://deepai.org/publication/rtformer-efficient-design-for-real-time-semantic-segmentation-with-transformer
 
+Fuse the image with depth information: 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9770927
+
+Image  Segmentation with intelrealsense depth camera
+https://ieeexplore.ieee.org/document/9182902
+
+To get the images from the depth cameras using the intelrealsense depth camera API.
+https://dev.intelrealsense.com/docs/api-how-to
